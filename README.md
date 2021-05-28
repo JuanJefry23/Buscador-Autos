@@ -6,7 +6,7 @@ Este proyecto muestra una página donde el usuario puede buscar un auto filtrand
 
 La información de todos los autos está en "una base de datos local" que por el momento es otro archivo JavaScript que contiene un arreglo de objetos, estos objetos tienen la información de cada auto.
 
-Links del proyecto en funcionamiento:
+### Links del proyecto en funcionamiento:
 
 Github page: https://juanjefry23.github.io/Buscador-Autos/
 
